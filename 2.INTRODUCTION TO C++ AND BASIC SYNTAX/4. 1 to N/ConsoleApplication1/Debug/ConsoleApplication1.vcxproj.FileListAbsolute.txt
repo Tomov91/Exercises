@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\2.INTRODUCTION TO C++ AND BASIC SYNTAX\4. 1 to N\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\2.INTRODUCTION TO C++ AND BASIC SYNTAX\4. 1 to N\ConsoleApplication1\Debug\ConsoleApplication1.pdb
