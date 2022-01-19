@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\Debug\ConsoleApplication1.pdb
