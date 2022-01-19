@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\ConsoleApplication1.cpp(14,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\ConsoleApplication1.cpp(15,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\ConsoleApplication1.cpp(16,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\ConsoleApplication1.cpp(17,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 1 – Operations\ConsoleApplication1\Debug\ConsoleApplication1.exe
