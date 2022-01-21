@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\ConsoleApplication1.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\ConsoleApplication1.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\ConsoleApplication1.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\Debug\ConsoleApplication1.exe
