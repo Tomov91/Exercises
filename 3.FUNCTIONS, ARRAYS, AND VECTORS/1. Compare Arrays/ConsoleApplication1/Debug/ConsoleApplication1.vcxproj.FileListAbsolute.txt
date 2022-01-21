@@ -1,2 +1,0 @@
-C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\Debug\ConsoleApplication1.exe
-C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\1. Compare Arrays\ConsoleApplication1\Debug\ConsoleApplication1.pdb
