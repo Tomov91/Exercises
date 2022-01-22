@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\2.Longest Sequence\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\2.Longest Sequence\ConsoleApplication1\Debug\ConsoleApplication1.pdb
