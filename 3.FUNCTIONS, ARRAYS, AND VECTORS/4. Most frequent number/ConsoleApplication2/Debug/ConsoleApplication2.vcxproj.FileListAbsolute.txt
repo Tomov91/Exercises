@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\4. Most frequent number\ConsoleApplication2\Debug\ConsoleApplication2.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\4. Most frequent number\ConsoleApplication2\Debug\ConsoleApplication2.pdb
