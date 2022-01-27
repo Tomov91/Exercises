@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\Problem 5 – Cartesian Product\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\3.FUNCTIONS, ARRAYS, AND VECTORS\Problem 5 – Cartesian Product\ConsoleApplication1\Debug\ConsoleApplication1.pdb
