@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 8 – Multiply Evens Sum by Odds Sum\ConsoleApplication1\ConsoleApplication1.cpp(13,19): warning C4101: 'intOdd': unreferenced local variable
+C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 8 – Multiply Evens Sum by Odds Sum\ConsoleApplication1\ConsoleApplication1.cpp(13,11): warning C4101: 'intEven': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\3. Exercises on Basic Syntax, Functions and Arrays\Problem 8 – Multiply Evens Sum by Odds Sum\ConsoleApplication1\Debug\ConsoleApplication1.exe
