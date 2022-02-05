@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 1 – Compare Arrays Again\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 1 – Compare Arrays Again\ConsoleApplication1\Debug\ConsoleApplication1.pdb
