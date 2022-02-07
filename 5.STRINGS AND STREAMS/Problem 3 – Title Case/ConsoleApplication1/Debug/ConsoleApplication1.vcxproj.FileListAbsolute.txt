@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 3 – Title Case\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 3 – Title Case\ConsoleApplication1\Debug\ConsoleApplication1.pdb
