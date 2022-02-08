@@ -1,0 +1,4 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\New folder (4)\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\New folder (4)\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 4 – Replace All\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 4 – Replace All\ConsoleApplication1\Debug\ConsoleApplication1.pdb

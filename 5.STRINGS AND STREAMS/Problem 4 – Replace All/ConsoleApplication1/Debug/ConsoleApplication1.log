@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+  The contents of <charconv> are available only with C++17 or later.
+  The contents of <optional> are available only with C++17 or later.
+  The contents of <string_view> are available only with C++17 or later.
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 4 – Replace All\ConsoleApplication1\ConsoleApplication1.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 4 – Replace All\ConsoleApplication1\Debug\ConsoleApplication1.exe

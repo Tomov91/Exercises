@@ -1,0 +1,15 @@
+﻿'ConsoleApplication26.exe' (Win32): Loaded 'C:\Users\Tomi\source\repos\ConsoleApplication26\Debug\ConsoleApplication26.exe'. Symbols loaded.
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3394 has exited with code 0 (0x0).
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication26.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1ca8 has exited with code 0 (0x0).
+The thread 0x2e38 has exited with code 0 (0x0).
+The program '[18028] ConsoleApplication26.exe' has exited with code 0 (0x0).
