@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 5 – Invalid Input\ConsoleApplication2\Debug\ConsoleApplication2.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\5.STRINGS AND STREAMS\Problem 5 – Invalid Input\ConsoleApplication2\Debug\ConsoleApplication2.pdb
