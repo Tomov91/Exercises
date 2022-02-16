@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\7.Exercise\Problem 1 – Reverse words\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\7.Exercise\Problem 1 – Reverse words\ConsoleApplication1\Debug\ConsoleApplication1.pdb
