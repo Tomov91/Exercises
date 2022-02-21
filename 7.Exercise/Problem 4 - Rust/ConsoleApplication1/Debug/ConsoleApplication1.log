@@ -1,0 +1,6 @@
+﻿  Rust.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\7.Exercise\Problem 4 - Rust\ConsoleApplication1\Rust.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\7.Exercise\Problem 4 - Rust\ConsoleApplication1\Rust.cpp(25,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\7.Exercise\Problem 4 - Rust\ConsoleApplication1\Rust.cpp(51,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\7.Exercise\Problem 4 - Rust\ConsoleApplication1\Rust.cpp(51,45): warning C4018: '>=': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\7.Exercise\Problem 4 - Rust\ConsoleApplication1\Debug\ConsoleApplication1.exe
