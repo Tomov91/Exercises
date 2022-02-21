@@ -1,4 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\Tomi\Desktop\C++\Припомняне\7.Exercise\Problem 4 - Rust\proba\ConsoleApplication1\ConsoleApplication1.cpp(7,32): warning C4018: '>': signed/unsigned mismatch
-C:\Users\Tomi\Desktop\C++\Припомняне\7.Exercise\Problem 4 - Rust\proba\ConsoleApplication1\ConsoleApplication1.cpp(7,62): warning C4018: '>': signed/unsigned mismatch
-  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\7.Exercise\Problem 4 - Rust\proba\ConsoleApplication1\Debug\ConsoleApplication1.exe
