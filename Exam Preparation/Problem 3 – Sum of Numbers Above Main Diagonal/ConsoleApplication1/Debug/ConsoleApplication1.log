@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam Preparation\Problem 3 – Sum of Numbers Above Main Diagonal\ConsoleApplication1\ConsoleApplication1.cpp(9,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam Preparation\Problem 3 – Sum of Numbers Above Main Diagonal\ConsoleApplication1\ConsoleApplication1.cpp(12,30): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam Preparation\Problem 3 – Sum of Numbers Above Main Diagonal\ConsoleApplication1\Debug\ConsoleApplication1.exe
