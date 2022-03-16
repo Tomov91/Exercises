@@ -1,0 +1,3 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\6.STL LINEAR CONTAINERS\Problem 4 – Brackets\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\6.STL LINEAR CONTAINERS\Problem 4 – Brackets\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\6.STL LINEAR CONTAINERS\Problem 4 – Brackets\ConsoleApplication1\Debug\ConsoleApplication1.exe
