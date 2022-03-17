@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam\02. Sum Of Odds_Условие\ConsoleApplication1\ConsoleApplication1.cpp(10,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam\02. Sum Of Odds_Условие\ConsoleApplication1\ConsoleApplication1.cpp(12,34): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\FUNDAMENTALS\Exam\02. Sum Of Odds_Условие\ConsoleApplication1\Debug\ConsoleApplication1.exe
