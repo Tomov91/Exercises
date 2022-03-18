@@ -1,2 +1,2 @@
-# Exercises
+# FUNDAMENTALS
 Solving problems
